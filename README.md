@@ -5,15 +5,14 @@
 
 - 🔭 I’m currently working on ***Mobile Application***
 - 🌱 I’m currently learning ***Laravel***, ***React.js***
-<br/>
 
 <h1 align="center">📊 GitHub Statistics 📊</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YIPZIYAN&count_private=true&theme=tokyonight&showicons=tru" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YIPZIYAN&count_private=true&theme=tokyonight&showicons=true" />
 </div>
 <br/>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIPZIYAN&layout=compact&count_private=true&theme=tokyonight&showicons=tru" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIPZIYAN&layout=compact&count_private=true&theme=tokyonight&showicons=true" />
 </div>
 
 
