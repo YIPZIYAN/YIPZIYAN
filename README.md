@@ -7,9 +7,7 @@
 - 🔭 I’m currently working on ***Mobile Application***
 - 🌱 I’m currently learning ***Laravel***, ***React.js***
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=YIPZIYAN&count_private=true&theme=tokyonight&showicons=true)]() [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YIPZIYAN&langs_count=10&theme=tokyonight)]()
 
-<!-- ![YIPZIYAN's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YIPZIYAN&theme=dark&hide_border=false) -->
-
-<!-- ![YIPZIYAN's Github Streak Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YIPZIYAN&layout=compact&theme=dark&langs_count=10) -->
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api?username=YIPZIYAN&count_private=true&theme=tokyonight&showicons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YIPZIYAN&layout=compact&count_private=true&theme=tokyonight&showicons=true)](https://github.com/YIPZIYAN/github-readme-stats)
 
