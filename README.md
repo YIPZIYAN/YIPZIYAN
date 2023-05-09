@@ -8,12 +8,12 @@
 
 <h1 align="center">📊 GitHub Statistics 📊</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YIPZIYAN&count_private=true&theme=tokyonight&showicons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YIPZIYAN&count_private=true&theme=tokyonight&showicons=tru" />
 </div>
 <br/>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIPZIYAN&layout=compact&count_private=true&theme=tokyonight&showicons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIPZIYAN&layout=compact&count_private=true&theme=tokyonight&showicons=tru" />
 </div>
 
 
