@@ -4,7 +4,7 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=laravel,nodejs,react,java,php,kotlin,androidstudio&perline=16" alt="Tech Stack" /> </p>
 
 - 🔭 I’m currently working on ***Mobile Application***
-- 🌱 I’m currently learning ***Laravel***, ***React***，***Flutter***
+- 🌱 I’m currently learning ***Laravel***, ***React***, ***Flutter***
 
 <h1 align="center">📊 GitHub Statistics 📊</h1>
 <div align="center">
