@@ -2,10 +2,10 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YIPZIYAN&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=YIPZIYAN&theme=vue&show_icons=true&hide_border=true&count_private=true"
     height="150" alt="stats graph"  /> <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YIPZIYAN&theme=vue-dark&hide_border=true" /> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIPZIYAN&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /> <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YIPZIYAN&theme=vue&hide_border=true" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIPZIYAN&theme=vue&show_icons=true&hide_border=true&layout=compact" /> <br/>
 </div>
 
 ###
@@ -34,4 +34,4 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/YIPZIYAN/YIPZIYAN/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/YIPZIYAN/YIPZIYAN/blob/output/github-contribution-grid-snake.svg)
