@@ -2,10 +2,14 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YIPZIYAN&theme=vue&show_icons=true&hide_border=true&count_private=true"
-    height="150" alt="stats graph"  /> <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YIPZIYAN&theme=vue&hide_border=true" /> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIPZIYAN&theme=vue&show_icons=true&hide_border=true&layout=compact" /> <br/>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=YIPZIYAN&theme=vue&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIPZIYAN&theme=vue&show_icons=true&hide_border=false&layout=compact" height="150" />
+  </div>
+
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YIPZIYAN&theme=vue&hide_border=false" /> 
+  </div>
 </div>
 
 ###
