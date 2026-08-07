@@ -2,14 +2,6 @@
 
 ###
 <div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=YIPZIYAN&theme=vue&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIPZIYAN&theme=vue&show_icons=true&hide_border=false&layout=compact" height="150" />
-  </div>
-</div>
-
-###
-<div align="center">
   <h2>Programming Skills</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
   <img width="12" />
